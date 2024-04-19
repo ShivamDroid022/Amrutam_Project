@@ -34,7 +34,7 @@ const Page6 = () => {
                     </div>
                     <img
                       loading="lazy"
-                      src="src/assets/Group54.svg"
+                      src="public/assets/Group54.svg"
                       className="mt-5 ml-4 max-w-full aspect-[5.88] w-[140px] max-md:ml-2.5"
                     />
                     <div className="flex flex-col self-stretch rounded-3xl">
@@ -74,7 +74,7 @@ const Page6 = () => {
                     </div>
                     <img
                       
-                      src="src/assets/Group54.svg"
+                      src="public/assets/Group54.svg"
                       className="mt-5 max-w-full aspect-[5.88] w-[140px]"
                     />
                     <div className="flex flex-col mt-3.5">
@@ -116,7 +116,7 @@ const Page6 = () => {
                     
                     <img
                       
-                      src="src/assets/Group54.svg"
+                      src="public/assets/Group54.svg"
                       className="mt-5 max-w-full aspect-[5.88] w-[140px]"
                     />
                      

@@ -1,5 +1,5 @@
 
-import Phone from '../assets/Group39489.svg'
+
 const Page8 = () => {
   return (
     <div className="flex justify-center align-middle items-center px-16 py-16 w-full  bg-yellow-50 max-md:px-5">
@@ -29,19 +29,19 @@ const Page8 = () => {
       </div>
       <div className="flex gap-5 pr-4 mt-8 max-md:flex-wrap">
         <img
-          srcSet="src/assets/image67.svg   "
+          srcSet="public/assets/image67.svg   "
           className="aspect-[3.33] w-[270px]"
         />
 
         <img
-          srcSet="src/assets/image68.svg"
+          srcSet="public/assets/image68.svg"
           className="aspect-[3.45] w-[272px]"
         />
       </div>
     </div>
 
     <img
-      srcSet={Phone}
+      src="public/assets/Group39489.svg"
     />
       </div>
       

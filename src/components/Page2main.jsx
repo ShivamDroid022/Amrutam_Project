@@ -24,7 +24,7 @@ const Page2main = () => {
             <div className="flex justify-center items-center px-5 rounded-full bg-slate-100 h-[100px] w-[100px]">
               <img
                
-                srcSet="src/assets/heartbeat.svg"
+                srcSet="public/assets/heartbeat.svg"
                 className="aspect-[1.18] w-[65px]"
               />
             </div>
@@ -43,7 +43,7 @@ const Page2main = () => {
             <div className="flex justify-center items-center px-4 bg-gray-200 rounded-full h-[100px] w-[100px]">
               <img
                 
-                srcSet="src/assets/ribbon.svg"
+                srcSet="public/assets/ribbon.svg"
                 className="w-16 aspect-square"
               />
             </div>
@@ -63,7 +63,7 @@ const Page2main = () => {
           <div className="flex flex-col items-center px-5 pt-3.5 pb-6 bg-red-50 rounded-full h-[100px] w-[100px]">
             <img
               
-              srcSet="src/assets/lotus-position.svg"
+              srcSet="public/assets/lotus-position.svg"
               className="w-16 aspect-square"
             />
           </div>
@@ -73,7 +73,7 @@ const Page2main = () => {
 
                              <div className="flex justify-end  items-end"> 
                              <img
-      srcSet="src/assets/Group39477.svg"
+      srcSet="public/assets/Group39477.svg"
      />
                              </div>
     
@@ -84,7 +84,7 @@ const Page2main = () => {
             <div className="flex justify-center items-center px-5 bg-violet-50 rounded-full h-[100px] w-[100px]">
               <img
                 
-                srcSet="src/assets/protection.svg"
+                srcSet="public/assets/protection.svg"
                 className="w-16 aspect-square"
               />
             </div>
@@ -101,7 +101,7 @@ const Page2main = () => {
             <div className="flex justify-center items-center px-6 bg-orange-50 rounded-full h-[100px] w-[100px] max-md:px-5">
               <img
                
-                srcSet="src/assets/ayurveda.svg"
+                srcSet="public/assets/ayurveda.svg"
                 className="w-14 aspect-square"
               />
             </div>
@@ -119,7 +119,7 @@ const Page2main = () => {
           <div className="flex justify-center items-center px-4 bg-gray-200 rounded-full h-[100px] w-[100px]">
             <img
             
-              srcSet="src/assets/strong.svg"
+              srcSet="public/assets/strong.svg"
               className="w-16 aspect-square"
             />
           </div>

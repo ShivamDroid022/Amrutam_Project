@@ -27,7 +27,7 @@ const Page3 = () => {
           <div className="flex flex-col ml-5 w-[31%] max-md:ml-0 max-md:w-full">
             <img
               
-              srcSet="src/assets/Rectangle4144.svg"
+              srcSet="public/assets/Rectangle4144.svg"
               className="grow w-full shadow-sm aspect-[1.3] max-md:mt-4"
             />
           </div>
@@ -65,7 +65,7 @@ const Page3 = () => {
           <div className="flex flex-col ml-5 w-3/12 max-md:ml-0 max-md:w-full">
             <img
             
-              src="src/assets/Rectangle4146.svg"
+              src="public/assets/Rectangle4146.svg"
               className="grow shrink-0 max-w-full shadow-sm aspect-[1.06] w-[300px] max-md:mt-5"
             />
           </div>
@@ -86,7 +86,7 @@ const Page3 = () => {
           <div className="flex flex-col ml-5 w-3/12 max-md:ml-0 max-md:w-full">
             <img
               loading="lazy"
-              src="src/assets/Rectangle4148.svg"
+              src="public/assets/Rectangle4148.svg"
               className="grow shrink-0 max-w-full shadow-sm aspect-[1.06] w-[300px] max-md:mt-4"
             />
           </div>

@@ -1,7 +1,7 @@
 
 import './App.css'
 import Home from './components/Home'
-// import Options from './components/Options'
+import Options from './components/Options'
 import Page4 from   './components/Page4'
 import Page2 from './components/Page2'
 import Page3 from './components/Page3'
@@ -21,7 +21,7 @@ function App() {
   return (
     <>
      <Home/>
-     {/* <Options/> */}
+     <Options/>
      <Page2/> 
      <Page3/>
      <Page4/>

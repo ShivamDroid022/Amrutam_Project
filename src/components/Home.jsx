@@ -4,7 +4,7 @@ const Home = () => {
 
   return (
     <>
-      <div className=" shrink-0 mx-auto max-w-full bg-[url('src/assets/mobbg.svg')]   md:bg-[url('src/assets/back.svg')] bg-cover md:bg- w-full bg-center ">
+      <div className=" shrink-0 mx-auto max-w-full bg-[url('public/assets/mobbg.svg')]   md:bg-[url('public/assets/back.svg')] bg-cover md:bg- w-full bg-center ">
       <div className="flex flex-col mt-11 mb-19 ml-20 max-w-full max-md:mt-20">
 
         <div className="flex flex-col max-md:max-w-full mt-3 md:mt-32 ">

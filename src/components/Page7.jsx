@@ -16,7 +16,7 @@ const Page7 = () => {
               <div className="flex flex-col">
                 <div className="flex flex-col mx-6 max-md:mx-2.5">
                   <img
-                    srcSet="src/assets/Ellipse725.png  100w"
+                    srcSet="public/assets/Ellipse725.png  100w"
                     className="self-center max-w-full rounded-full aspect-[0.97] w-[149px]"
                   />
                   <div className="flex flex-col mt-6">
@@ -55,7 +55,7 @@ const Page7 = () => {
               <div className="flex flex-col">
                 <div className="flex flex-col mx-6 max-md:mx-2.5">
                   <img
-                    srcSet="src/assets/Ellipse725.png  100w"
+                    srcSet="public/assets/Ellipse725.png  100w"
                     className="self-center max-w-full rounded-full aspect-[0.97] w-[149px]"
                   />
                   <div className="flex flex-col mt-6">
@@ -94,7 +94,7 @@ const Page7 = () => {
               <div className="flex flex-col">
                 <div className="flex flex-col mx-6 max-md:mx-2.5">
                   <img
-                    srcSet="src/assets/Ellipse725.png  100w"
+                    srcSet="public/assets/Ellipse725.png  100w"
                     className="self-center max-w-full rounded-full aspect-[0.97] w-[149px]"
                   />
                   <div className="flex flex-col mt-6">
