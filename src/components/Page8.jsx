@@ -1,5 +1,5 @@
 
-import Phone from '../assets/Group 39489.svg'
+import Phone from '../assets/Group39489.svg'
 const Page8 = () => {
   return (
     <div className="flex justify-center align-middle items-center px-16 py-16 w-full  bg-yellow-50 max-md:px-5">
